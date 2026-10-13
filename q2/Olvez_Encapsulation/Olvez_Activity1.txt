@@ -1,0 +1,14 @@
+1. Public
+self.username = "variable"
+
+2. Private
+self.__balance = "variable"
+
+3. Protected
+self._engineCode = "variable"
+
+4. Public
+self.schoolName = "variable"
+
+5. Private
+self.__voterID = "variable"
